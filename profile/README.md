@@ -14,9 +14,10 @@ The research team is comprised of an interdisciplinary team of scientists from t
 ### Finding a Repository 
 
 ### Contact Us 
-Please reach out with any questions, comments, or feedback.
+Please reach out with any questions, comments, or feedback about this GitHub organization.
 
-Katie Wampler, katie.wampler@oregonstate.edu
+Katie Wampler, Data Manager
+katie.wampler@oregonstate.edu
 
 <!--
 **Here are some ideas to get you started:**
