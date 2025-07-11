@@ -1,6 +1,6 @@
-## Welcome to the Wildfire Water Security Project GitHub
+## Welcome to the Wildfire and Water Security Project GitHub
 
-This organization contains GitHub repositories or "repos" associated with the Wildfire Water Security Project. 
+This organization contains GitHub repositories or "repos" associated with the Wildfire and Water Security Project. 
 
 ### Project Overview 
 Changing climates and increasing warm and dry conditions are increasing the frequency of large, high-severity wildfires across the Western United States. Wildfire prone forested watersheds supply water to approximately 60–70 percent of the US population. When these watersheds burn there is increased potential for floods, erosion, landslides, and introduction of contaminants to streams andrivers, which can impact downstream community infrastructure, drinking water treatment, public health, and aquatic ecosystem health. The effects from wildfires on water supplies can persist for
