@@ -12,13 +12,15 @@ The desired outcome of this research is to support community preparedness to mai
 The research team is comprised of an interdisciplinary team of scientists from the United States Forest Service, Oregon State University, Montana State University Washington State University, and others. 
 
 ### Finding a Repository 
+Repositories should be named in the form **WWS**-**Node#**-**ProjectCode**-**ProjectKeywords** where:
+-   **\#** is the node number
+-   **ProjectCode** is a short (\<5 letter) acronym for the project
+-   **ProjectKeywords** describe what the project is about in a few words
 
 ### Contact Us 
 Please reach out with any questions, comments, or feedback about this GitHub organization.
 
-Katie Wampler, Data Manager
-
-katie.wampler@oregonstate.edu
+[Katie Wampler](katie.wampler@oregonstate.edu)
 
 <!--
 **Here are some ideas to get you started:**
