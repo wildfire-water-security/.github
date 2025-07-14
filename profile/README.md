@@ -17,6 +17,7 @@ The research team is comprised of an interdisciplinary team of scientists from t
 Please reach out with any questions, comments, or feedback about this GitHub organization.
 
 Katie Wampler, Data Manager
+
 katie.wampler@oregonstate.edu
 
 <!--
