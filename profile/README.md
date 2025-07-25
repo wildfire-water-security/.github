@@ -9,7 +9,8 @@ decades, resulting in hidden costs to communities estimated to be 30-times great
 The desired outcome of this research is to support community preparedness to maintain safe drinking water in the aftermath of wildfire. We are developing critical scientific knowledge to inform related policy and management decisions as wildfire continues to become more prevalent across the Pacific Northwest.
 
 ### The Team 
-The research team is comprised of an interdisciplinary team of scientists from the United States Forest Service, Oregon State University, Montana State University Washington State University, and others. 
+The research team is comprised of an interdisciplinary team of 60+ scientists. With 25+ federal, state, and local partners collaborating with the project.
+
 
 ### Finding a Repository 
 Repositories should be named in the form **WWS**-**Node#**-**ProjectCode**-**ProjectKeywords** where:
